@@ -1,4 +1,11 @@
-
+*{
+  background-color: #091320;
+}
+.container{
+align-content: center;
+align-items: center;
+margin: 0, auto;
+}
   .hero-section{
    /* background: var(--950, #183253); */
     width: 1440px;
